@@ -1,5 +1,5 @@
 _repo: The-Natural-History-of-Pliny-Volume-3-of-6-By-Pliny-the-Elder_59131
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translators:
   - agent_name: Riley, Henry T. (Henry Thomas)
@@ -16,12 +16,17 @@ contributor:
     gutenberg_agent_id: '49421'
     url: http://www.gutenberg.org/2009/agents/49421
     wikipedia: https://en.wikipedia.org/wiki/John_Bostock_(physician)
+covers:
+- cover_type: archival
+  image_path: 59131-h/images/cover.jpg
 creator:
   author:
     agent_name: Elder, Pliny the
     gutenberg_agent_id: '49420'
     url: http://www.gutenberg.org/2009/agents/49420
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59131#The-Natural-History-of-Pliny-Volume-3-of-6-By-Pliny-the-Elder
 gutenberg_issued: '2019-03-26'
 gutenberg_type: Text
 identifiers:
